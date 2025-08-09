@@ -2,7 +2,6 @@
 This project focused on analyzing customer financial and demographic data to segment clients based on their credit risk levels. Using Excel for data cleaning and transformation, and Power BI for visualization, the analysis identified patterns and characteristics linked to higher default rates. The goal was to provide actionable insights to help improve lending strategies and reduce financial risk. 
 
 ### Objective: Identify high-risk customer segments to improve credit policies and reduce default rates and develop actionable insights to support targeted credit risk management and mitigate future defaults.
-### Tools Used: Microsoft Excel (data cleaning, transformation, segmentation) and Power BI (interactive dashboards)
 
 ### Key Features
 - Interactive Power BI dashboard
@@ -15,7 +14,7 @@ _or view below:_
 
 
 ### Tools and Skills Used
-- Power BI (DAX, visuals, KPIs)
+- Power BI (interactive Dashboards, DAX, visuals, KPIs)
 - Excel (Statistical Analytics)
 - Data Transformation
 - Credit Risk Analytics
