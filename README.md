@@ -31,10 +31,10 @@ _or view below:_
 ### Strategic Recommendations:
 - Prioritize monitoring and intervention for customers with credit utilization above 0.80 and “Fair” or lower credit scores. Early outreach or tailored credit limit adjustments could reduce their probability of default.
 - Use late payment frequency, especially among “Fair” credit score customers, as an early-warning system. Trigger timely reminders, flexible payment plans, or personalized coaching to help customers avoid spiraling into default.
-- Because moderate-risk customers represent the highest lifetime value, design targeted engagement initiatives—such as personalized credit counselling, loyalty benefits, or manageable credit restructuring—to retain them and minimize default losses.
-- Given employed customers carry the highest CLV but also the highest default rate, tailor credit terms carefully—offering more flexible repayment options or monitoring usage spikes closely—to protect value while managing risk.
+- Because moderate-risk customers represent the highest lifetime value, design targeted engagement initiatives such as personalized credit counselling, loyalty benefits, or manageable credit restructuring—to retain them and minimize default losses.
+- Given employed customers carry the highest CLV but also the highest default rate, tailor credit terms carefully offering more flexible repayment options or monitoring usage spikes closely—to protect value while managing risk.
 - Although customers over 60 demonstrate higher default rates, their lower incidence of late payments suggests defaults may stem from sudden financial shocks rather than ongoing payment behavior. Consider alternative assessments, such as income verification or hardship support, before taking restrictive credit actions.
-- Deploy your segmentation framework to allocate collections and credit management efforts proportionally—focusing intense, high-touch strategies on top-risk, high-value segments, while automating lower-risk customer monitoring.
+- Deploy your segmentation framework to allocate collections and credit management efforts proportionally focusing intense, high touch strategies on top-risk, high-value segments, while automating lower-risk customer monitoring.
 
 Regularly Review and Refine Segmentation Based on Dynamic Behavior
 Monitor changes in utilization, payment behavior, and risk scores over time to detect customers moving into higher-risk categories early. This enables pre-emptive communication before default risk crystallizes.
